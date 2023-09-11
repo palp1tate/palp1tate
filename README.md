@@ -21,17 +21,16 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=uestc-wxy&count_private=true&show_icons=true" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=uestc-wxy&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uestc-wxy&layout=compact&langs_count=8" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uestc-wxy&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
 
 <p align="center">
-    <img height="200px" src="https://github-profile-trophy.vercel.app/?username=uestc-wxy&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest&margin-w=10&margin-h=10" alt="uestc-wxy" />
+    <img height="175px" src="https://github-profile-trophy.vercel.app/?username=uestc-wxy&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest&margin-w=10&margin-h=10" alt="uestc-wxy" />
 </p>
 
 <div align="center">
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=uestc-wxy&theme=light&hide_border=true" />
-<img height="200px" width="500px" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FDFEFE" alt="Jokes Card" />
+<img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=uestc-wxy&theme=light&hide_border=true" />
 </div>
