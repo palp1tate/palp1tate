@@ -1,12 +1,4 @@
 <div align="center">
-
- <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://uestcwxy.love/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=等我苦尽甘来时;我给你讲讲来时走的路&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-  
 <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/uestc-wxy/uestc-wxy/img/coding.gif" /><br>
 
@@ -28,33 +20,18 @@
 </div>
 
 <div align="center">
-    <img height="237px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uestc-wxy&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <span>&emsp;&emsp;</span>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=uestc-wxy&count_private=true&show_icons=true" />
+    <span>&emsp;&emsp;</span>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uestc-wxy&layout=compact&langs_count=8" />
+    <span>&emsp;&emsp;</span>
 </div>
 
-  <div align="center">
-    <img  height="253px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uestc-wxy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+<p align="center">
+    <img height="200px" src="https://github-profile-trophy.vercel.app/?username=uestc-wxy&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest&margin-w=10&margin-h=10" alt="uestc-wxy" />
+</p>
 
 <div align="center">
-    <img  height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=uestc-wxy&theme=dark&hide_border=true" />
-</div>
-
-![Metrics](https://metrics.lecoq.io/uestc-wxy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-<tr><td>
-<div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=uestc-wxy&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
-</td></tr>
-
-
-
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
-
-
-
+<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=uestc-wxy&theme=light&hide_border=true" />
+<img height="200px" width="500px" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FDFEFE" alt="Jokes Card" />
 </div>
