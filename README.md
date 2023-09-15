@@ -1,6 +1,6 @@
 <div align="center">
 <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/uestc-wxy/uestc-wxy/img/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/palp1tate/palp1tate/img/coding.gif" /><br>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-blue?logo=go&logoColor=fff&style=flat)
@@ -16,21 +16,21 @@
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=uestc-wxy&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=palp1tate&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=uestc-wxy&count_private=true&show_icons=true" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=palp1tate&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uestc-wxy&layout=compact&langs_count=8" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palp1tate&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
 
 <p align="center">
-    <img height="175px" src="https://github-profile-trophy.vercel.app/?username=uestc-wxy&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest&margin-w=10&margin-h=10" alt="uestc-wxy" />
+    <img height="175px" src="https://github-profile-trophy.vercel.app/?username=palp1tate&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest&margin-w=10&margin-h=10" alt="palp1tate" />
 </p>
 
 <div align="center">
-<img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=uestc-wxy&theme=light&hide_border=true" />
+<img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=palp1tate&theme=light&hide_border=true" />
 </div>
