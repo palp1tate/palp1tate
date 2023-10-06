@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-    <img height="175px" src="https://github-profile-trophy.vercel.app/?username=palp1tate&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest&margin-w=10&margin-h=10" alt="palp1tate" />
+    <img height="175px" src="https://github-profile-trophy.vercel.app/?username=palp1tate&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest,Repositories&margin-w=10&margin-h=10" alt="palp1tate" />
 </p>
 
 <div align="center">
