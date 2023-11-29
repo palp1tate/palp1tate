@@ -19,18 +19,8 @@
   <img src="https://komarev.com/ghpvc/?username=palp1tate&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
-<div align="center">
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=palp1tate&count_private=true&show_icons=true" />
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palp1tate&layout=compact&langs_count=8" />
-    <span>&emsp;&emsp;</span>
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=palp1tate&show_icons=true&locale=en" alt="palp1tate" /></p>
 
-<p align="center">
-    <img height="175px" src="https://github-profile-trophy.vercel.app/?username=palp1tate&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest,Repositories&margin-w=10&margin-h=10" alt="palp1tate" />
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palp1tate&" alt="palp1tate" /></p>
 
-<div align="center">
-<img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=palp1tate&theme=light&hide_border=true" />
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palp1tate&&row=1&column=7&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest,Repositories" alt="palp1tate" /></a> </p>
