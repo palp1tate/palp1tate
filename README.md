@@ -1,6 +1,8 @@
 <div align="center">
 <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/palp1tate/palp1tate/img/coding.gif" /><br>
+  
+![暗色](https://raw.githubusercontent.com/palp1tate/palp1tate/output/github-contribution-grid-snake-dark.svg)
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-blue?logo=go&logoColor=fff&style=flat)
