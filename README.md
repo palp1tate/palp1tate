@@ -9,8 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=palp1tate&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=palp1tate&show_icons=true&locale=en" alt="palp1tate" /></p>
+![](https://github-readme-stats.vercel.app/api?username=palp1tate&count_private=true&hide_border=true&show_icons=true&locale=en)
+![](https://github-readme-streak-stats.herokuapp.com/?user=palp1tate&count_private=true&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=palp1tate&&row=1&column=7&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest,Repositories" alt="palp1tate" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palp1tate&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palp1tate&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=palp1tate&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=palp1tate&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=palp1tate&theme=github&utcOffset=8)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palp1tate&" alt="palp1tate" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palp1tate&&row=1&column=7&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest,Repositories" alt="palp1tate" /></a> </p>
+
