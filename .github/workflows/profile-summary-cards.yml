@@ -23,10 +23,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          target_branch: output
           USERNAME: ${{ github.repository_owner }}
           # BRANCH_NAME is optional, default to main, branch name to push cards
-#          BRANCH_NAME: "output"
+          BRANCH_NAME: "main"
           # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: 8
           # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
