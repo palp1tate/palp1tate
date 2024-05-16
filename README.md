@@ -11,12 +11,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=palp1tate&count_private=true&hide_border=true&show_icons=true&locale=en)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=palp1tate&count_private=true&hide_border=true)
-<img src="https://github-profile-trophy.vercel.app/?username=palp1tate&&row=1&column=7&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest,Repositories" alt="palp1tate" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palp1tate&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palp1tate&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=palp1tate&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=palp1tate&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=palp1tate&theme=github&utcOffset=8)
+
+<img src="https://github-profile-trophy.vercel.app/?username=palp1tate&&row=1&column=7&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest,Repositories" alt="palp1tate" />
 
 
 
